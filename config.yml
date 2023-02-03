@@ -1,0 +1,23 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Blluerssoap
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: produk
+      name: Products
+      url: /produk/
+      weight: 10
+    - identifier: about
+      name: About us
+      url: /about-us/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
