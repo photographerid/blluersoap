@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://glistening-banoffee-cc19f7.netlify.app/"
 languageCode: en-us
 title: Blluerssoap
 theme: PaperMod
