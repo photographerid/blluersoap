@@ -5,19 +5,22 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: produk
+    - identifier: products
       name: Products
-      url: /produk/
+      url: /products/
       weight: 10
     - identifier: about
       name: About us
       url: /about-us/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 40
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 40
+      weight: 30
+
+params:
+  homeInfoParams:
+      Title: Blluerssoap, spesialis sabun alami
+      Content: Selamat datang di Blluerssoap. Perkenalkan, saya Qiki (qikiikasari), Pemiliknya. Saya memegang langsung mulai dari pembuatan hingga pengiriman semua sabun yang dijual di sini. Perlu diketahui bahwa, semua sabun di sini sudah dites terlebih dahulu sebelum dijual. Saya pastikan semua bahannya alami, tanpa zat kimia berbahaya. Saya menggunakan minyak berbasis vegan/tumbuhan, oat organik, activated charcoal food/cosmetic-grade, bahan herbal food-grade, spirulina organik, butiran kopi giling asli, susu, madu dan bahan alami lainnya. Tidak menggunakan bahan kimia berbahaya, seperti pengawet, sls, sles, paraben, dan bahan berbahaya lainnya. Dapatkan penawaran harga terbaik dengan kualitas sabun yang tinggi. Ulasan dapat dicek [di sini](https://www.tokopedia.com/blluerssoapblluersshop?utm_medium=Share&utm_campaign=Shop%20Share&utm_source=Desktop) dan [di sini](https://shopee.co.id/qikiikasari). Alhamdulillah menginjak waktu 1 tahun, sudah terjual lebih dari 10.000 sabun dengan 70-80% pelanggan yang order berkala. Stok terjaga, dapat diorder langsung di etalase. (Wassalam.) 
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
